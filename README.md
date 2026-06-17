@@ -19,10 +19,10 @@ This project demonstrates an interactive Power BI dashboard analyzing SuperStore
 - **DAX**: Custom calculations and measures for KPIs.
 
 ## Visuals
-![SuperStore Sales Dashboard and Forecast_page-0001](SuperStore Sales.png)
+![SuperStore Sales Dashboard and Forecast_page-0001](https://github.com/Mishra025/SuperStore_Sales_Dashboard_And_Forecast/blob/main/SuperStore%20Sales.png)
 *Figure 1: Interactive dashboard overview with key insights.*
 
-![SuperStore Sales Dashboard and Forecast_page-0002](Sales Forecast.png)
+![SuperStore Sales Dashboard and Forecast_page-0002](https://github.com/Mishra025/SuperStore_Sales_Dashboard_And_Forecast/blob/main/Sales%20Forecast.png)
 *Figure 2: 15 days sales forecast.*
 
 
